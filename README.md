@@ -1,12 +1,6 @@
-Here's a well-structured `README.md` for a **Terraform Repository**, covering **Terraform Lifecycle, State Files, Commands, and Examples**. Let me know if you need modifications!  
-
----
-
-### **README.md for Terraform Repository**  
+### ** Terraform **  
 
 ```md
-# Terraform Repository
-
 ## Introduction  
 Terraform is an open-source Infrastructure as Code (IaC) tool developed by HashiCorp. It allows you to define, provision, and manage cloud infrastructure using a declarative configuration language.
 
