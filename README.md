@@ -1,4 +1,4 @@
-### ** Terraform **  
+### **Terraform**  
 
 ```md
 ## Introduction  
